@@ -7,7 +7,7 @@
         "marker-color": "#1db828",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Geertjes Hoeve"
+        "name": "Geertjes Hoeve"
       },
       "geometry": {
         "type": "Point",
@@ -23,13 +23,141 @@
         "marker-color": "#1DB828",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Nieuw Slagmaat"
+        "name": "Nieuw Slagmaat"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           5.156613886356354,
           52.05442517529374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Koningshof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.144157707691193,
+          52.07447645744133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kasteeltuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.017812252044678,
+          52.08075217546895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Food4Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.106191039085388,
+          52.06828559544328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kansrijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.159513354301453,
+          52.12086821365303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kontjes en Sneetjes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.106947422027588,
+          52.07562550568096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "De Groentenakker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.246996283531189,
+          52.05193627560136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Molen de Windotter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.043094754219055,
+          52.01769117753783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Café Averechts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.117909610271454,
+          52.097914814706094
         ]
       }
     }
