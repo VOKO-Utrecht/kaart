@@ -160,6 +160,22 @@
           52.097914814706094
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1db828",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fungi Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.172224342823029,
+          52.090308298463114
+        ]
+      }
     }
   ]
 }
